@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samarth Kamble 
 - 👀 I’m interested in Ethical Hacking/IOT Hacking.
-- 🌱 I’m currently learning Mechanical Engg.
+- 🌱 I’m currently prepering for CISSP.
 - 💞️ I’m looking to collaborate on DRDO
 - 📫 How to reach me linkdin 
 
